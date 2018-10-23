@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TGIF\\NetCore\\Hello_world\\Hello_world\\Hello_world.csproj",
+      "projectUniqueName": "C:\\TGIF\\net_core\\Hello_world\\Hello_world\\Hello_world.csproj",
       "projectName": "Hello_world",
-      "projectPath": "C:\\TGIF\\NetCore\\Hello_world\\Hello_world\\Hello_world.csproj",
+      "projectPath": "C:\\TGIF\\net_core\\Hello_world\\Hello_world\\Hello_world.csproj",
       "packagesPath": "C:\\Users\\jwj\\.nuget\\packages\\",
-      "outputPath": "C:\\TGIF\\NetCore\\Hello_world\\Hello_world\\obj\\",
+      "outputPath": "C:\\TGIF\\net_core\\Hello_world\\Hello_world\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

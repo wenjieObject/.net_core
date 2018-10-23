@@ -12,3 +12,17 @@ C:\TGIF\NetCore\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.Asse
 C:\TGIF\NetCore\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.RazorTargetAssemblyInfo.cache
 C:\TGIF\NetCore\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.dll
 C:\TGIF\NetCore\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.pdb
+C:\TGIF\net_core\Hello_world\Hello_world\bin\Debug\netcoreapp2.1\Hello_world.deps.json
+C:\TGIF\net_core\Hello_world\Hello_world\bin\Debug\netcoreapp2.1\Hello_world.runtimeconfig.json
+C:\TGIF\net_core\Hello_world\Hello_world\bin\Debug\netcoreapp2.1\Hello_world.runtimeconfig.dev.json
+C:\TGIF\net_core\Hello_world\Hello_world\bin\Debug\netcoreapp2.1\Hello_world.dll
+C:\TGIF\net_core\Hello_world\Hello_world\bin\Debug\netcoreapp2.1\Hello_world.pdb
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.csprojAssemblyReference.cache
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.csproj.CoreCompileInputs.cache
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.RazorAssemblyInfo.cache
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.RazorAssemblyInfo.cs
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.AssemblyInfoInputs.cache
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.AssemblyInfo.cs
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.RazorTargetAssemblyInfo.cache
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.dll
+C:\TGIF\net_core\Hello_world\Hello_world\obj\Debug\netcoreapp2.1\Hello_world.pdb
