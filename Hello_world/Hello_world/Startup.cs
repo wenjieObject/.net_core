@@ -36,19 +36,25 @@ namespace Hello_world
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
+            //如果下面一段话注释会提示通用的错误
+            //if (env.IsDevelopment())
+            //{
+            //    app.UseDeveloperExceptionPage();
+            //}
+            //欢迎页面
+            //app.UseWelcomePage();
+            //访问静态页面
+            app.UseFileServer();
 
-            app.Run(async (context) =>
-            {
-                //await context.Response.WriteAsync("Hello World!");
-                //await context.Response.WriteAsync("Hello World!\nHello .net_core入门教程");
-                var msg = Configuration["message"];
-                await context.Response.WriteAsync(msg);
+            //app.Run(async (context) =>
+            //{
+            //    //await context.Response.WriteAsync("Hello World!");
+            //    //await context.Response.WriteAsync("Hello World!\nHello .net_core入门教程");
+            //    //throw new Exception("123!@@");
+            //    var msg = Configuration["message"];
+            //    await context.Response.WriteAsync(msg);
 
-            });
+            //});
         }
     }
 }
